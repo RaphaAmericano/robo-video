@@ -1,0 +1,27 @@
+{
+  "name": "robo-video",
+  "version": "1.0.0",
+  "description": "Pratica de robo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaAmericano/robo-video.git"
+  },
+  "keywords": [
+    "robo",
+    "node",
+    "js"
+  ],
+  "author": "Raphael Americano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaAmericano/robo-video/issues"
+  },
+  "homepage": "https://github.com/RaphaAmericano/robo-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
